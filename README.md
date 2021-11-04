@@ -29,5 +29,5 @@ Od dzieciństwa interesuję się technologią. Chcąc rozwijać swoją pasję ks
   - [Przypadek testowy stworzony na platformie utest dla quickenloans.com](https://drive.google.com/drive/folders/1gJTQAY8lrH8depTpfrCMduJFMGSBsUHm?usp=sharing)
 # Praca Inżynierska
   - [System Informacji Przestrzennej Gminy Olszyna](https://github.com/KamilSchneider/SystemInformacjiPrzestrzennej)
-  Jest to mój osobisty sukces, który pomgógł mi uzyskać stopień inżyniera oprogramowania. Projekt zakładał stworzenie systemu informacji porzestrzennej, który pomógłby zlokalizować najważniejsze obiekty oraz ważne informacje dla gminy na jej mapie. Projekt udało się pozytywnie zrealizować. Więcej informacji w sekcji System Informacji Przestrzennej (odsyłam do linku)
+  Jest to mój osobisty sukces, który pomógł mi uzyskać stopień inżyniera oprogramowania. Projekt zakładał stworzenie systemu informacji porzestrzennej, który pomógłby zlokalizować najważniejsze obiekty oraz ważne informacje dla gminy na jej mapie. Projekt udało się pozytywnie zrealizować. Więcej informacji w sekcji System Informacji Przestrzennej (odsyłam do linku)
 
