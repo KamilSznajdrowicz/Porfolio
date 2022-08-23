@@ -19,7 +19,6 @@ Od dzieciństwa interesuję się technologią. Chcąc rozwijać swoją pasję ks
   - tworzenie przypadków testowych
   - raportowanie błędów
 # Certificates
-  - [ISTQB] - planowany egzamin styczeń 2022
   - [C#] - certyfikat potwierdzający umiejętność programowania w języku C# na poziomie średnio-zaawansowanym
   - [Europass-Mobility] - certyfikat potwierdzający kwalifikacje zawodowe
 # Kursy
