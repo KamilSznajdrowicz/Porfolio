@@ -6,13 +6,13 @@ Jeśli w Twojej firmie przydałyby się moje umiejętności to zapraszam do kont
 # Narzędzia
   - [ScreenOMatic](https://screencast-o-matic.com/) - oprogramowanie do przechwytywania obrazu
   - [Jira](https://www.atlassian.com/software/jira0) - narzędzie do zarządzania projektami
-  - [Asana] (https://asana.com) - narzędzie do zarządzania projektami
+  - [Asana](https://asana.com) - narzędzie do zarządzania projektami
   - Github
   - Browserstack - symulowanie działania urządzeń
-  - utest (https://www.utest.com/) - platforma do testowania (crowd-testing)
-  - Shopware (https://pl.shopware.com/) - platforma ecommerce
-  - Wordpress (https://pl.wordpress.org/) - platforma ecommerce
-  - Content stack (https://www.contentstack.com/) - platforma headless CMS
+  - [utest](https://www.utest.com/) - platforma do testowania (crowd-testing)
+  - [Shopware](https://pl.shopware.com/) - platforma ecommerce
+  - [Wordpress](https://pl.wordpress.org/) - platforma ecommerce
+  - [Content stack](https://www.contentstack.com/) - platforma headless CMS
 # Umiejętności techniczne
   - SQL
   - DevTools
