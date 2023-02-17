@@ -13,6 +13,7 @@ Jeśli w Twojej firmie przydałyby się moje umiejętności to zapraszam do kont
   - [Shopware](https://pl.shopware.com/) - platforma ecommerce
   - [Wordpress](https://pl.wordpress.org/) - platforma ecommerce
   - [Content stack](https://www.contentstack.com/) - platforma headless CMS
+  - [Postman](https://www.postman.com/) - testy API
 # Umiejętności techniczne
   - SQL
   - DevTools
